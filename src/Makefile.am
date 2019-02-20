@@ -17,3 +17,5 @@
 bin_SCRIPTS = org-babel-tangle
 
 TESTS = simple.bats
+
+CLEANFILES = *.out
