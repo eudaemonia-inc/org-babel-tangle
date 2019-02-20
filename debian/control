@@ -1,0 +1,15 @@
+Source: org-babel-tangle
+Section: utils
+Priority: optional
+Maintainer: Mark Buda <hermit@acm.org>
+Build-Depends: debhelper (>= 10), emacs
+Standards-Version: 4.1.2
+#Homepage: <insert the upstream URL, if relevant>
+Vcs-Git: https://github.com/eudaemonia-inc/org-babel-tangle.git
+Vcs-Browser: https://github.com/eudaemonia-inc/org-babel-tangle.git
+
+Package: org-babel-tangle
+Architecture: all
+Depends: ${misc:Depends}, emacs
+Description: A script to tangle org-mode files.
+ A script to tangle org-mode files.

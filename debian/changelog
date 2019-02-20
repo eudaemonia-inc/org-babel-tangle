@@ -1,0 +1,5 @@
+org-babel-tangle (0.0.0-1) bionic; urgency=medium
+
+  * Initial release.
+
+ -- Mark Buda <hermit@acm.org>  Wed, 20 Feb 2019 10:06:11 -0500
