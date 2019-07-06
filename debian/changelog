@@ -1,3 +1,15 @@
+org-babel-tangle (0.0.0-6) bionic; urgency=medium
+
+  * Once more unto the breach.
+
+ -- Mark Buda <hermit@acm.org>  Sat, 06 Jul 2019 16:43:11 -0400
+
+org-babel-tangle (0.0.0-5) bionic; urgency=medium
+
+  * Yet again.
+
+ -- Mark Buda <hermit@acm.org>  Sat, 06 Jul 2019 15:36:32 -0400
+
 org-babel-tangle (0.0.0-4) bionic; urgency=medium
 
   * Try again.
