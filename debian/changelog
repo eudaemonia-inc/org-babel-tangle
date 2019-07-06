@@ -1,3 +1,9 @@
+org-babel-tangle (0.0.0-3) bionic; urgency=medium
+
+  * Correct distribution.
+
+ -- Mark Buda <hermit@acm.org>  Sat, 06 Jul 2019 15:04:22 -0400
+
 org-babel-tangle (0.0.0-2) unstable; urgency=medium
 
   * Fix architecture.
