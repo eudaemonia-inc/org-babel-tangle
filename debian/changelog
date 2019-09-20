@@ -1,3 +1,9 @@
+org-babel-tangle (0.0.2-1) disco; urgency=medium
+
+  * I tire of your antics.
+
+ -- Mark Buda <hermit@acm.org>  Fri, 20 Sep 2019 09:48:28 -0400
+
 org-babel-tangle (0.0.1-1) disco; urgency=medium
 
   * Upload disco version
