@@ -21,6 +21,5 @@ emacs -Q --batch --eval "
       (require 'ob-tangle)
       (dolist (file command-line-args-left)
         (with-current-buffer (find-file-existing file)
-          (org-babel-tangle))))
-  " "$@"
+          (org-babel-tangle))))" "$@"
 exit $?
