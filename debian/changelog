@@ -1,3 +1,9 @@
+org-babel-tangle (0.0.3-2) buster; urgency=medium
+
+  * Oh, look. A *new* Mexico.
+
+ -- Mark Buda <hermit@acm.org>  Sat, 28 Dec 2019 19:47:20 -0500
+
 org-babel-tangle (0.0.3-1) disco; urgency=medium
 
   * I find your lack of faith disturbing.
